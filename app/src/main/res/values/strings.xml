@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SectorMenuDemo</string>
+
+    <string name="nav_home">首页</string>
+    <string name="nav_home_tag">home</string>
+    <string name="nav_enterprise">企业</string>
+    <string name="nav_enterprise_tag">enterprise</string>
+    <string name="nav_declare">上传</string>
+    <string name="nav_declare_tag">push</string>
+    <string name="nav_message">消息</string>
+    <string name="nav_message_tag">message</string>
+    <string name="nav_me">我的</string>
+    <string name="nav_me_tag">me</string>
+
+    <item name="menu_home_id" type="id"/>
+    <item name="menu_enterprise_id" type="id"/>
+    <item name="menu_declare_id" type="id"/>
+    <item name="menu_message_id" type="id"/>
+    <item name="menu_me_id" type="id"/>
+
+</resources>
